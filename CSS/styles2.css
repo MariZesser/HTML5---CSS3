@@ -1,0 +1,25 @@
+.TRD{
+    background-image: url(../Images/TRD\ Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 16px;
+    width: 700px;
+    height: 300px;
+    object-fit: cover;
+}
+body{
+    background-image: url(/Images/BackGround\ Runx.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.content{
+    width: 700px;
+    padding: 25px;
+}
+.words{
+    size: 10px;
+}
+.poster{
+    width: 725px;
+    height:300px
+}

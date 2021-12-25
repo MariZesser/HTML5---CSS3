@@ -1,0 +1,33 @@
+.Peace{
+    justify-content: stretch;
+    width: 700px;
+    height: 300px;
+}
+.images{
+    bottom: 0;
+    float: right;
+    position: fixed;
+}
+.content{
+    width: 700px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: darkblue;
+}
+.pictures{
+    overflow: auto;
+    width: 300px;
+    height: 100px;
+    margin: 15px;
+    border-style: solid 2px;
+    float: right;
+}
+.rightsidebar{
+    background-image: url(../Images/images.jpg);
+    background-repeat: repeat-y;
+    float: right;
+    width: 100px;
+    height: 500px;
+}
